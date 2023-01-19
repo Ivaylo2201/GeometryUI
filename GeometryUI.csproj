@@ -62,18 +62,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -84,121 +84,22 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Necker_cube.svg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\vecteezy_geometric-pyramid_1200697.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cube.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pyr.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\287039.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1200px-Cone_%28geometry%29.svg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cone.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Linalg_great_circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cylinder.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\White_circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\White_circle1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\circle.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\22617888.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Capture.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\6616367.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\66163671.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cube1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\200px-Cube.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cube2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cube3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xd.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xd2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xdxdxdx.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Untitled-2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xdxd33.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cone1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\circle1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pyr1.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Untitled-1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cube4.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Untitled-11.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cyl.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cne.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sph.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sph1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gffg.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\s%3bhere.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="icon.ico" />
+    <Content Include="Image1.jpg" />
+    <None Include="Resources\cubePic.PNG" />
+    <None Include="Resources\cylinder.png" />
+    <None Include="Resources\cone.png" />
+    <None Include="Resources\pyrPic.PNG" />
+    <None Include="Resources\sphPic.png" />
+    <None Include="Resources\appName.PNG" />
+    <None Include="Resources\circle.png" />
+    <None Include="Resources\sphIcon.png" />
+    <None Include="Resources\pyrIcon.png" />
+    <None Include="Resources\cylIcon.PNG" />
+    <None Include="Resources\coneIcon.PNG" />
+    <None Include="Resources\appIcon.jpg" />
+    <None Include="Resources\cubeIcon.PNG" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

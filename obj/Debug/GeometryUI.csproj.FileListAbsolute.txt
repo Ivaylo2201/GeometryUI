@@ -9,3 +9,14 @@ D:\C++ Projects\GeometryUI\obj\Debug\GeometryUI.csproj.GenerateResource.cache
 D:\C++ Projects\GeometryUI\obj\Debug\GeometryUI.csproj.CoreCompileInputs.cache
 D:\C++ Projects\GeometryUI\obj\Debug\GeometryUI.exe
 D:\C++ Projects\GeometryUI\obj\Debug\GeometryUI.pdb
+D:\C# Projects\GeometryUI\bin\Debug\GeometryUI.exe.config
+D:\C# Projects\GeometryUI\bin\Debug\GeometryUI.exe
+D:\C# Projects\GeometryUI\bin\Debug\GeometryUI.pdb
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.csproj.AssemblyReference.cache
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.MainForm.resources
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.Properties.Resources.resources
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.csproj.GenerateResource.cache
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.csproj.CoreCompileInputs.cache
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.exe
+D:\C# Projects\GeometryUI\obj\Debug\GeometryUI.pdb

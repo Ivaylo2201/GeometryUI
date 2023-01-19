@@ -20,6 +20,8 @@ namespace GeometryUI
             InitializeComponent();
         }
 
+        // Made by Ivaylo Georgiev
+
         public void clearWindowsForms() {
             txtCubeSide.Clear();
             txtPyrSide.Clear();
@@ -216,7 +218,7 @@ namespace GeometryUI
         }
 
         private void buttonexit_Click(object sender, EventArgs e) {
-            buttonexit.FlatAppearance.BorderColor = Color.FromArgb(0, 255, 255, 255);
+            buttonExit.FlatAppearance.BorderColor = Color.FromArgb(0, 255, 255, 255);
             DialogResult dr= MessageBox.Show("Do you really want to exit Geometry UI?", "Exit?",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question);

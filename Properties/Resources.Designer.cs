@@ -63,9 +63,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1200px_Cone__geometry__svg {
+        internal static System.Drawing.Bitmap appIcon {
             get {
-                object obj = ResourceManager.GetObject("1200px-Cone_(geometry).svg", resourceCulture);
+                object obj = ResourceManager.GetObject("appIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,69 +73,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _2 {
+        internal static System.Drawing.Bitmap appName {
             get {
-                object obj = ResourceManager.GetObject("2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _200px_Cube {
-            get {
-                object obj = ResourceManager.GetObject("200px-Cube", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _22617888 {
-            get {
-                object obj = ResourceManager.GetObject("22617888", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _287039 {
-            get {
-                object obj = ResourceManager.GetObject("287039", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _6616367 {
-            get {
-                object obj = ResourceManager.GetObject("6616367", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _66163671 {
-            get {
-                object obj = ResourceManager.GetObject("66163671", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Capture {
-            get {
-                object obj = ResourceManager.GetObject("Capture", resourceCulture);
+                object obj = ResourceManager.GetObject("appName", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,26 +93,6 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap circle1 {
-            get {
-                object obj = ResourceManager.GetObject("circle1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cne {
-            get {
-                object obj = ResourceManager.GetObject("cne", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap cone {
             get {
                 object obj = ResourceManager.GetObject("cone", resourceCulture);
@@ -183,9 +103,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cone1 {
+        internal static System.Drawing.Bitmap coneIcon {
             get {
-                object obj = ResourceManager.GetObject("cone1", resourceCulture);
+                object obj = ResourceManager.GetObject("coneIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +113,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cube {
+        internal static System.Drawing.Bitmap cubeIcon {
             get {
-                object obj = ResourceManager.GetObject("cube", resourceCulture);
+                object obj = ResourceManager.GetObject("cubeIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +123,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cube1 {
+        internal static System.Drawing.Bitmap cubeIcon1 {
             get {
-                object obj = ResourceManager.GetObject("cube1", resourceCulture);
+                object obj = ResourceManager.GetObject("cubeIcon1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +133,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cube2 {
+        internal static System.Drawing.Bitmap cubePic {
             get {
-                object obj = ResourceManager.GetObject("cube2", resourceCulture);
+                object obj = ResourceManager.GetObject("cubePic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,29 +143,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cube3 {
+        internal static System.Drawing.Bitmap cylIcon {
             get {
-                object obj = ResourceManager.GetObject("cube3", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cube4 {
-            get {
-                object obj = ResourceManager.GetObject("cube4", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap cyl {
-            get {
-                object obj = ResourceManager.GetObject("cyl", resourceCulture);
+                object obj = ResourceManager.GetObject("cylIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,9 +163,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gffg {
+        internal static System.Drawing.Bitmap pyrIcon {
             get {
-                object obj = ResourceManager.GetObject("gffg", resourceCulture);
+                object obj = ResourceManager.GetObject("pyrIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,9 +173,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Linalg_great_circle {
+        internal static System.Drawing.Bitmap pyrPic {
             get {
-                object obj = ResourceManager.GetObject("Linalg_great_circle", resourceCulture);
+                object obj = ResourceManager.GetObject("pyrPic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +183,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Necker_cube_svg {
+        internal static System.Drawing.Bitmap sphIcon {
             get {
-                object obj = ResourceManager.GetObject("Necker_cube.svg", resourceCulture);
+                object obj = ResourceManager.GetObject("sphIcon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,149 +193,9 @@ namespace GeometryUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pyr {
+        internal static System.Drawing.Bitmap sphPic {
             get {
-                object obj = ResourceManager.GetObject("pyr", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pyr1 {
-            get {
-                object obj = ResourceManager.GetObject("pyr1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap s_here {
-            get {
-                object obj = ResourceManager.GetObject("s;here", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sph {
-            get {
-                object obj = ResourceManager.GetObject("sph", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sph1 {
-            get {
-                object obj = ResourceManager.GetObject("sph1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Untitled_1 {
-            get {
-                object obj = ResourceManager.GetObject("Untitled-1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Untitled_11 {
-            get {
-                object obj = ResourceManager.GetObject("Untitled-11", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Untitled_2 {
-            get {
-                object obj = ResourceManager.GetObject("Untitled-2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap vecteezy_geometric_pyramid_1200697 {
-            get {
-                object obj = ResourceManager.GetObject("vecteezy_geometric-pyramid_1200697", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap White_circle {
-            get {
-                object obj = ResourceManager.GetObject("White_circle", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap White_circle1 {
-            get {
-                object obj = ResourceManager.GetObject("White_circle1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap xd {
-            get {
-                object obj = ResourceManager.GetObject("xd", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap xd2 {
-            get {
-                object obj = ResourceManager.GetObject("xd2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap xdxd33 {
-            get {
-                object obj = ResourceManager.GetObject("xdxd33", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap xdxdxdx {
-            get {
-                object obj = ResourceManager.GetObject("xdxdxdx", resourceCulture);
+                object obj = ResourceManager.GetObject("sphPic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

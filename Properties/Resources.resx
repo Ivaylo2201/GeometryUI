@@ -118,118 +118,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Untitled-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled-11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="White_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\White_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cube2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cube2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Capture" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Capture.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xd2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cyl" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cyl.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="200px-Cube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\200px-Cube.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="6616367" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6616367.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cylinder" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cylinder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="circle1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\circle1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gffg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gffg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cube.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Untitled-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1200px-Cone_(geometry).svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1200px-Cone_(geometry).svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sph1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sph1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pyr1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pyr1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="xdxdxdx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xdxdxdx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Untitled-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cne" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cne.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="66163671" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\66163671.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Linalg_great_circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Linalg_great_circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="22617888" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\22617888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cube3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cube3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sph" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Necker_cube.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Necker_cube.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="White_circle1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\White_circle1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cubeIcon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cubeIcon.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cone" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="287039" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\287039.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pyrIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pyrIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pyr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pyr.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="circle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\circle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cone1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cone1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cylinder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cylinder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cube1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cube1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cubeIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cubeIcon.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="coneIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coneIcon.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="vecteezy_geometric-pyramid_1200697" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vecteezy_geometric-pyramid_1200697.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pyrPic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pyrPic.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="xd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sphPic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sphPic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cube4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cube4.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="appName" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\appName.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="xdxd33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\xdxd33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="appIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\appIcon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="s;here" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>"..\Resources\s;here.png";System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="sphIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sphIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cylIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cylIcon.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cubePic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cubePic.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
